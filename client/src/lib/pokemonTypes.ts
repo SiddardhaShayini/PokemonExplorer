@@ -1,0 +1,42 @@
+export const POKEMON_TYPES = [
+  'normal',
+  'fire',
+  'water',
+  'electric',
+  'grass',
+  'ice',
+  'fighting',
+  'poison',
+  'ground',
+  'flying',
+  'psychic',
+  'bug',
+  'rock',
+  'ghost',
+  'dragon',
+  'dark',
+  'steel',
+  'fairy'
+];
+
+// CSS variable values for each type
+export const pokemonTypeColors = {
+  normal: '#a8a77a',
+  fire: '#fd7d24',
+  water: '#4592c4',
+  electric: '#eed535',
+  grass: '#7ac74c',
+  ice: '#96d9d6',
+  fighting: '#c22e28',
+  poison: '#a33ea1',
+  ground: '#e2bf65',
+  flying: '#a98ff3',
+  psychic: '#f95587',
+  bug: '#a6b91a',
+  rock: '#b6a136',
+  ghost: '#735797',
+  dragon: '#6f35fc',
+  dark: '#705746',
+  steel: '#b7b7ce',
+  fairy: '#d685ad',
+};
