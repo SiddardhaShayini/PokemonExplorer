@@ -26,11 +26,11 @@ A React app that lets you explore Pokémon using the PokéAPI. Search, filter, a
 
 1. Clone the repository:
 ```
-git clone https://github.com/<your-username>/pokemon-explorer.git
+git clone https://github.com/<your-username>/PokemonExplorer.git
 ```
 Navigate into the project directory:
 ```
-cd pokemon-explorer
+cd PokemonExplorer
 ```
 Install dependencies:
 ```
@@ -40,5 +40,5 @@ Run the development server:
 ```
 npm run dev
 ```
-Open your browser and navigate to ```http://localhost:3000``` to see the app in action.
+Open your browser and navigate to ```http://localhost:5000``` to see the app in action.
 
