@@ -2,7 +2,7 @@ import { FaGithub } from 'react-icons/fa';
 
 const Header = () => {
   return (
-    <header className="bg-pokered text-white shadow-md">
+    <header className="bg-blue-500 text-white shadow-md">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <div className="flex items-center space-x-2">
           <img

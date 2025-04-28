@@ -20,7 +20,7 @@ const Pagination: React.FC<PaginationProps> = ({
     <div className="mt-8 flex items-center justify-between">
       <Button
         variant="outline"
-        className="px-3 py-1 text-sm"
+        className="px-3 py-1 bg-blue-400 hover:bg-blue-500 text-white-600 text-sm"
         disabled={!hasPrevPage}
         onClick={onPrevPage}
       >
@@ -28,7 +28,7 @@ const Pagination: React.FC<PaginationProps> = ({
       </Button>
       <span className="text-sm text-gray-600">Page {currentPage}</span>
       <Button
-        className="px-3 py-1 bg-pokeblue hover:bg-blue-700 text-white text-sm"
+        className="px-3 py-1 bg-blue-500 hover:bg-blue-600 text-white text-sm"
         disabled={!hasNextPage}
         onClick={onNextPage}
       >
