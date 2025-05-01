@@ -2,6 +2,14 @@
 
 A React app that lets you explore Pokémon using the PokéAPI. Search, filter, and browse through different Pokémon types and their details.
 
+## 🌐 Live Demo
+
+Check out the live app here:  
+[🚀 Launch the Digital Literacy Companion](https://digital-literacy-companion.streamlit.app/)
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://digital-literacy-companion.streamlit.app/)
+
+
 ## Features
 - Search Pokémon by name.
 - Filter Pokémon by type.
